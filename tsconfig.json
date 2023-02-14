@@ -29,9 +29,11 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "types.d.ts"
+    "types.d.ts",
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "cypress/**/*.ts",
+    "cypress.config.ts"
   ]
 }
