@@ -14,8 +14,6 @@ export default function Home() {
       </Head>
 
       <div>
-        <h2 className={inter.className}>Hello Next Test</h2>
-        <h2 className={inter.className}>Hello Next Test</h2>
         <h2 className='text-cyan-700'>Hello Next Test</h2>
       </div>
     </>
